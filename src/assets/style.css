@@ -1,0 +1,22 @@
+.home_bg{
+    background:url('background.jpg') no-repeat center center fixed;
+    height: 100%;
+    background-size: cover;
+    
+}
+
+.text_home{
+   color: #000;
+    text-align: center;
+    background-color: #ffffffbd;
+    padding: 100px;
+}
+.text_home>h1{
+    color:#0b3569;
+}
+
+.panel-info>.panel-heading {
+    color: #f4f8f9;
+    background-color: #0b3569;
+    border-color: #bce8f1;
+}
